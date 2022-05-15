@@ -24,4 +24,8 @@ also, converts the milliseconds to days, hours, minutes, and seconds.
 * Next, to display the clock...
 I wrote another function that takes two parameters. But before now, I already have my variables for querying the DOM
 
-* I use setInterval to execute an anonymous function every second to calculate the remaining time,
+* I use setInterval to execute an anonymous function every second to calculate the remaining time, output the remaining time to the select DOM elements and then stop the clock once the time is up.
+
+## To run the clock...
+
+initializeClock('timer-format', countdown)
