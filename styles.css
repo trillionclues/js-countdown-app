@@ -10,7 +10,7 @@
 
 h2 {
   text-transform: capitalize;
-  color: #3730f7;
+  color: #7b77e9;
   letter-spacing: 14px;
   font-weight: 500;
   font-size: 40px;
@@ -102,7 +102,17 @@ main {
 
 .cto form {
   font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   /* border: 1px solid grey; */
+}
+
+form i {
+  background: #7b77e9;
+  color: #fff;
+  padding: 5px 15px;
+  cursor: pointer;
 }
 
 form input {
