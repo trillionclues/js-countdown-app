@@ -29,3 +29,7 @@ I wrote another function that takes two parameters. But before now, I already ha
 ## To run the clock...
 
 initializeClock('timer-format', countdown)
+
+Here's a [Live Demo](https://js-countdown-app-trillionclues.vercel.app/) of the App
+
+If you would like to read an indept [hashnode](https://trillioncluess.hashnode.dev/build-a-javascript-countdown-timer-in-5-minutes) article on how to do this, go [here](https://trillioncluess.hashnode.dev/build-a-javascript-countdown-timer-in-5-minutes)
